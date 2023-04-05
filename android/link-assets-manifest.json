@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "components/assets/fonts/Devlin.ttf",
+      "sha1": "fe8cd5a916ce39fabd5e07b40d526862ff1f3e24"
+    },
+    {
+      "path": "components/assets/fonts/poppins.xml",
+      "sha1": "25b6be13e5dad4867f196f4d54e1b7b7c8546065"
+    },
+    {
+      "path": "components/assets/fonts/poppins_black.ttf",
+      "sha1": "048555c4d0c3a6022b480be4596b1c95d605d32b"
+    },
+    {
+      "path": "components/assets/fonts/poppins_bold.ttf",
+      "sha1": "b9b65c039a1f10a5cb5e0726c6e7e18e98a8e517"
+    },
+    {
+      "path": "components/assets/fonts/poppins_extra_bold.ttf",
+      "sha1": "66815173c5954271fac6b3ef51076f186577ad6f"
+    },
+    {
+      "path": "components/assets/fonts/poppins_extra_light.ttf",
+      "sha1": "76ae3e4052ea2a21facd642ddd13cbaa80650fa6"
+    },
+    {
+      "path": "components/assets/fonts/poppins_light.ttf",
+      "sha1": "246982f0e815573f4915b4dd6f9861d56f147da2"
+    },
+    {
+      "path": "components/assets/fonts/poppins_medium.ttf",
+      "sha1": "af7058373acbcf383dd114b8f9bbfb9faafd79eb"
+    },
+    {
+      "path": "components/assets/fonts/poppins_regular.ttf",
+      "sha1": "01d319c533f62ea29f03b5df8adfd4d93d2d2a38"
+    },
+    {
+      "path": "components/assets/fonts/poppins_semi_bold.ttf",
+      "sha1": "20b39c8b480c946b084d6aa09f12bf10b2ec5aa6"
+    },
+    {
+      "path": "components/assets/fonts/poppins_thin.ttf",
+      "sha1": "c5c36432a1d00d653bde8a47f4c99171f02362e8"
+    },
+    {
+      "path": "components/assets/fonts/roboto.ttf",
+      "sha1": "dd1b1db13ff1f72138c134c62f38fef83749f36a"
+    }
+  ]
+}
